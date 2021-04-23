@@ -13,7 +13,7 @@ import com.sun.source.tree.NewArrayTree;
 public class Main {
 
     public static void main(String[] args) {
-     /*   ///Prueba de circulo
+        ///Prueba de circulo
         Circle circle = new Circle(4, "Azul");
         System.out.printf(circle.toString() + "\n");
 
@@ -39,9 +39,9 @@ public class Main {
 
         ///Punto4
         System.out.printf("\n" + cylinder1.toString());
-      */
 
-        /* ///////////Ejercicio 2 - Guia 3 ///////////
+
+        ///////////Ejercicio 2 - Guia 3 ///////////
         ///Punto 1
         Student student1= new Student(38953932,"Gaston","Schiaffino","gastonschiaffino10@gmail.com","Tucuman 2370 2 E", 2020, 3800, "Programación");
         Student student2= new Student(37867138, "Lucas", "Mostafa", "mostafalucas@gmail.com", "Costa Azul 4608", 2019, 1555, "Programación");
@@ -92,7 +92,7 @@ public class Main {
         }
         System.out.printf("\nLa cantidad de ingresos del colegio por la cuota de los estudiantes es: " + totalFee);
 
-        */
+
 
         //////////////Ejercicio 3 - Guia 3 ///////////
         ///Punto 1
